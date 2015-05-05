@@ -1,6 +1,6 @@
 # AngularJS Tutorial: Build a Gmail Clone
 
-Build a simple email application and learn core AngularJS concepts. By the end of this tutorial you'll be able to see (fake) emails, search by subject line and read / delete emails.
+Build a sssimple email application and learn core AngularJS concepts. By the end of this tutorial you'll be able to see (fake) emails, search by subject line and read / delete emails.
 
 ### [AngularJS Tutorial: Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
 
